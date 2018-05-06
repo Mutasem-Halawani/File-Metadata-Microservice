@@ -1,0 +1,31 @@
+{
+  "name": "File-Metadata-Microservice",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice - FFC Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mutasem-Halawani/File-Metadata-Microservice.git"
+  },
+  "keywords": [
+    "Express",
+    "Url",
+    "Shortener",
+    "Service",
+    "FFC"
+  ],
+  "author": "Mutasem Halawani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mutasem-Halawani/File-Metadata-Microservice/issues"
+  },
+  "homepage": "https://github.com/Mutasem-Halawani/File-Metadata-Microservice#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.8"
+  }
+}
